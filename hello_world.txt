@@ -1,1 +1,1 @@
-hello this is my first time using the git version control system
+hello this is my first time using the git version control system and now im making an edit in this file to check the commit feature in vscode
